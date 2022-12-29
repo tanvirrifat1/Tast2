@@ -1,4 +1,6 @@
 import './App.css';
+import About from './Componet/About/About';
+import Gamer from './Componet/Gamer/Gamer';
 import Header from './Componet/Header/Header';
 import Login from './Componet/Login/Login';
 import Message from './Componet/Message/Message';
@@ -11,6 +13,8 @@ function App() {
       <Message></Message>
       <Login></Login>
       <Use></Use>
+      <About></About>
+      <Gamer></Gamer>
     </div>
   );
 }
