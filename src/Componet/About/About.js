@@ -12,7 +12,9 @@ const About = () => {
                     </div>
                 </section>
             </div>
-            <div className='grid gap-6  mx-16 lg:grid-cols-3 -mt-6 '>
+            <div className='grid gap-6  mx-16 lg:grid-cols-3 -mt-6 ' data-aos="fade-down"
+                data-aos-easing="linear"
+                data-aos-duration="1500">
                 <div className="card w-96 bg-neutral rounded-2xl  dark:bg-gray-900">
                     <div className="card-body">
                         <h2 className="card-title">Customize your <br />

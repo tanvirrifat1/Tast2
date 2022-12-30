@@ -1,12 +1,14 @@
 import React from 'react';
 import image from '../../file/Screenshot.png'
 import img from '../../file/Screenshot3.png'
+import img2 from '../../file/human-hand-holding.webp'
 import './Message.css'
 
 const Message = () => {
     return (
         <div className='mt-10'>
-            <div className="hero mt-10">
+            <div className="hero mt-10" data-aos="fade-up"
+                data-aos-duration="3000">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img src={image} className=" rounded-lg lg:w-1/2 shadow-2xl" alt='' />
                     <div>

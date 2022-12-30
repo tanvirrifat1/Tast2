@@ -31,7 +31,7 @@ const Footer = () => {
                 </footer>
             </div>
             <div>
-                <footer className="footer items-center p-8 dark:bg-gray-900 dark:text-gray-50 rounded-3xl -mt-3 text-neutral-content">
+                <footer className="footer items-center p-8 -my-10 dark:bg-gray-900 dark:text-gray-50 rounded-3xl -mt-3 text-neutral-content">
                     <div className="items-center grid-flow-col">
                         <h1 className='text-xl'>Mobile : 123456987</h1>
                     </div>
@@ -47,8 +47,6 @@ const Footer = () => {
                     <div className="items-center grid-flow-col">
                         <h1 className='text-xl'>©2021 SuperBio.</h1>
                     </div>
-
-
                 </footer>
             </div>
         </div>
