@@ -8,7 +8,7 @@ const Use = () => {
                     <h1 className="text-4xl font-bold leading-none">Use it anywhere</h1>
                     <p >Take your Superbio link wherever your audience is, <br />
                         to help them to discover all your important content.</p>
-                    <button className='btn w-40 rounded-2xl bg-blue-400 '>Get Started</button>
+                    <button className='btn w-40 rounded-2xl bg-blue-400 text-white'>Get Started</button>
                 </div>
             </div>
         </section>

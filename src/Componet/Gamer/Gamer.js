@@ -10,7 +10,6 @@ const Gamer = () => {
                         <p >I chose to work with Superbio because of their amazing and supportive <br />
                             team who shares those values. It’s an all-in-one platform that is really <br />
                             quick and easy to navigate. And is really aesthetically appealing.</p>
-
                     </div>
                 </div>
             </section>
